@@ -26,3 +26,8 @@ npx tailwindcss init -p
 ```
 npm run dev
 ```
+
+## Output:
+
+![image](https://github.com/KaranMakadiya757/Todolist/assets/166399212/e496264b-f0ed-4a89-a651-3036168eccfe)
+
